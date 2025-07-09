@@ -1,11 +1,12 @@
 # 🔐 MPIN Strength Checker
-
+## Github Repository : https://github.com/Archit-1233/MPIN-Strength-Checker
 A smart tool to analyze the strength of 4-digit and 6-digit MPINs used in mobile banking.  
 This tool detects whether an MPIN is **commonly used** or **derived from user demographics** such as:
 
 - Date of Birth (DOB)
 - Spouse's DOB
 - Wedding Anniversary
+  
   
   ![image](https://github.com/user-attachments/assets/81a59e8f-ccf9-4f2e-8da2-a09f1e87c993)
   
