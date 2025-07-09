@@ -6,6 +6,19 @@ This tool detects whether an MPIN is **commonly used** or **derived from user de
 - Date of Birth (DOB)
 - Spouse's DOB
 - Wedding Anniversary
+  
+  ![image](https://github.com/user-attachments/assets/81a59e8f-ccf9-4f2e-8da2-a09f1e87c993)
+  
+  ## 🌐 Live Demo
+
+Click below to try the MPIN Strength Checker (no setup required):
+To simplify usage and improve evaluation, I have deployed the MPIN Strength Checker as a web application using Streamlit Cloud 
+Please have a look .....
+👉 https://mpin-strength-checker-j8devgw4hu4krad6nyverz.streamlit.app/
+
+> ✅ Enter MPIN and optional DOBs/Anniversary  
+> ✅ Get real-time feedback on strength & reasons  
+> ✅ View 20+ test cases in a friendly UI
 
 Developed as a part of a Data Science technical assessment for **OneBanc**.
 ## 🖼️ App Preview
